@@ -1,0 +1,2 @@
+Data written from input.txt: This is a sample text file which we are going tto read usng NODE JS.
+createdc on Mon Jul 21 2025 15:28:20 GMT+0100 (West Africa Standard Time)
